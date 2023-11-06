@@ -3,8 +3,8 @@ from pprint import pprint
 from flight_data import FlightData
 
 
-FLIGHT_API = "https://api.tequila.kiwi.com"
-API_KEY = "hxvNg2hlfY_N4JJfErgfNok7NqiJ83JH"
+FLIGHT_API = "YOUR TEQUILA KIWI API"
+API_KEY = "YOUR TEQUILA API KEY"
 
 
 class FlightSearch:
